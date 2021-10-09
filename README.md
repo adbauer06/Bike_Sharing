@@ -60,6 +60,7 @@ This chart shows the number of trips taken by user type and gender over the week
 
 
 ## Summary and Recommendations
+### Summary
 Looking at the New York City Citibike bike-sharing service, we can make the following observations that can be applied in looking at establishing a bike-sharing service in Des Moines.
 - Subscribers make up a large majority of the user base of this service.  While non-subscribers can and do use the service also, having a large-base of subscribers may help with stability and being able to more easily ensure profitability.
 - Men do tend to use the bike-sharing service much more frequently then women. The factors that contribute to this may be worthwhile looking into further in order to determine how to market to both groups.
@@ -67,7 +68,7 @@ Looking at the New York City Citibike bike-sharing service, we can make the foll
 - Based on the checkout time data, people seem to use the bike-sharing service primarily as a mode of transportation from one location to another.
 
 
-Recommendations
+### Recommendations
 - Additional information that could be looked at is whether bike check-out times vary based on the days of the week or time of day.  Are bikes being checked out longer outside of those typical workday commute times?  This might give a better indicator as to whether bikes are primarily used for just short trips to a particular destination regardless of day and/or time, or whether there does seem to be times were bikes are checked out for longer durations for possibly recreational purposes.
 - One metric we did not pull with this analysis was how many bikes were being used.  It might be interesting to look at how many bikes are being used at points in time in proporation to how many there are in total in order to determine the initial investment required.
 
