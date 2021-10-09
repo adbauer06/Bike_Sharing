@@ -48,7 +48,7 @@ This graph shows the bike usage for each day of the week per hour.  The weekdays
 
 
 ### Trips by Weekeday per Hour (By Gender):
-![Trips_by_Weekday_Hour_by_Gender](Resources/Trips_by_Weekday_Hour_by_Gender.png)
+![Trips_by_Weekday_Hour_by_Gender](https://github.com/adbauer06/Bike_Sharing/blob/main/Resources/Trips_by_Weekday_Hour_by_Gender.PNG)
 
 This chart shows that the bike usage by day per hour is fairly consistant between genders.
 
