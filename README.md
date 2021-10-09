@@ -37,7 +37,7 @@ This chart shows the most used ending locations.  Again, just like the top start
 This chart shows the amount of time bikes were checked out for.  The vast majority of checkouts were for short amounts of time, mainly less than an hour with the vast majority between 10 and 20 minutes.  This seems to imply that most usage is around getting from one location to another as opposed to "touring".
 
 ### Checkout Times by Gender:
-![Checkout_Times_by_Gender](Resources/Checkout_Times_by_Gender.png)
+![Checkout_Times_by_Gender](https://github.com/adbauer06/Bike_Sharing/blob/main/Resources/Checkout_Times_by_Gender.PNG)
 
 This chart also looks at checkout times, but by gender.  Checkout time data is fairly consistant between both male and female users.
 
