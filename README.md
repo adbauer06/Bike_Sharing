@@ -20,7 +20,7 @@ This chart shows the proportion of who is utilizing the bike-sharing service bas
 
 
 ### Top Starting Locations:
-![Top_Starting_Locations](Resources/Top_Starting_Locations.png)
+![Top_Starting_Locations](https://github.com/adbauer06/Bike_Sharing/blob/main/Resources/Top_Starting_Locations.PNG)
 
 This charts shows the most used starting locations.  The bike-sharing service is clearly used the most in the Manhatten area of New York, which is a popular area for both tourism, as well as a major business area.  
 
