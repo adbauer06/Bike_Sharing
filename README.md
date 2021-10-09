@@ -14,7 +14,7 @@ This chart shows that of the total number of times the bike-sharing service was 
 
 
 ### Users by Gender:
-![Gender_Breakdown](Resources/Gender_Breakdown.png)
+![Gender_Breakdown](https://github.com/adbauer06/Bike_Sharing/blob/main/Resources/Gender_Breakdown.PNG)
 
 This chart shows the proportion of who is utilizing the bike-sharing service based on gender type.  Male users make up the vast majority of those that use the service, more than double that of female users. 
 
