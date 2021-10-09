@@ -26,7 +26,7 @@ This charts shows the most used starting locations.  The bike-sharing service is
 
 
 ### Top Ending Locations:
-![Top_Ending_Locations](Resources/Top_Ending_Locations.png)
+![Top_Ending_Locations](https://github.com/adbauer06/Bike_Sharing/blob/main/Resources/Top_Ending_Locations.PNG)
 
 This chart shows the most used ending locations.  Again, just like the top starting locations, the stations most used are in the Manhatten area.  
 
