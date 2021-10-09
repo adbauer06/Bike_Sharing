@@ -54,7 +54,7 @@ This chart shows that the bike usage by day per hour is fairly consistant betwee
 
 
 ### User Trips by Gender and Type per Weekday:
-![Trips_by_Type_Gender_per_Weekday](Resources/Trips_by_Type_Gender_per_Weekday.png)
+![Trips_by_Type_Gender_per_Weekday](https://github.com/adbauer06/Bike_Sharing/blob/main/Resources/Trips_by_Type_Gender_per_Weekday.PNG)
 
 This chart shows the number of trips taken by user type and gender over the week.  Male subscribers make up the majority of the bike trips.  
 
