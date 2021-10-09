@@ -8,7 +8,7 @@ Below are several metrics that were looked at in relation to the current bike-sh
 [New York City Bike-sharing Analysis](https://public.tableau.com/app/profile/amy.bauer/viz/Module14Challenge_16334769966750/ChallengeStory?publish=yes)
 
 ### User Type:
-![User_Type](Resources/User_Type.png)
+![User_Type](https://github.com/adbauer06/Bike_Sharing/blob/main/Resources/User_Type.PNG)
 
 This chart shows that of the total number of times the bike-sharing service was utilized in the month of August, the majority of these were by subscribers.  In this graph, customers represent those that used the service who were not registered subscribers.
 
