@@ -42,7 +42,7 @@ This chart shows the amount of time bikes were checked out for.  The vast majori
 This chart also looks at checkout times, but by gender.  Checkout time data is fairly consistant between both male and female users.
 
 ### Trips by Weekday per Hour:
-![Trips_by_Weekday_per_Hour](Resources/Trips_by_Weekday_per_Hour.png)
+![Trips_by_Weekday_per_Hour](https://github.com/adbauer06/Bike_Sharing/blob/main/Resources/Trips_by_Weekday_per_Hour.PNG)
 
 This graph shows the bike usage for each day of the week per hour.  The weekdays show the heaviest usage between 7:00 and 9:00 in the morning and again from 5:00 to 7:00 in the evening.  This would lead us to believe that there is a heavy usage for those traveling to and from work.  The weekends are showing heavier usage during the daytime hours.  This could support that they are used for recreational purposes during those times.
 
